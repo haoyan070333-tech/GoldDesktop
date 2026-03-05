@@ -1,5 +1,5 @@
 ﻿# GoldDesktop
-黄金/积存金走势监测与预测桌面程序（V1.0）
+﻿# 黄金/积存金走势监测与预测桌面程序（V1.0）
 ![972595cfaf2a976b8993edf299fb5e43](https://github.com/user-attachments/assets/9ea58ab1-60e9-4848-9228-1cc5ea838b09)
 ![26ca17a5ae3d85bd6328e5cd2ff09fae](https://github.com/user-attachments/assets/083b2ca5-7930-4aae-aed2-21740bf14cc6)
 
@@ -23,3 +23,4 @@
 • 界面布局：默认全屏，左列显示时间、单位切换、价格、提醒设置及预测列表，右列展示折线图、预测扇形通道及典型走势。
 
 ⚠️ 重要提示：所有预测结果仅为统计模拟，不构成任何交易建议。
+
