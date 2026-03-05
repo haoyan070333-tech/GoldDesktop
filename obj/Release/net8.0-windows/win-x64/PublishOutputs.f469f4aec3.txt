@@ -1,0 +1,2 @@
+D:\Goldinfo\net\GoldDesktop\bin\Release\net8.0-windows\win-x64\publish\GoldDesktop.pdb
+D:\Goldinfo\net\GoldDesktop\bin\Release\net8.0-windows\win-x64\publish\GoldDesktop.exe
